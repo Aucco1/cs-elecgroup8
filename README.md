@@ -1,3 +1,5 @@
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/e4a069a5-54ba-4a82-a37e-72c2a2924a8b" />
+<img width="640" height="480" alt="Figure_21" src="https://github.com/user-attachments/assets/ece60c1c-f208-4abe-a1cb-53cb770967e5" />
 # Mushroom Classifier — kNN & K-Means from Scratch
 
 Bare-bones implementations of **K-Nearest Neighbours (kNN)** and **K-Means Clustering** in pure Python, built for a computational science lab assignment. No external libraries except `matplotlib` for plotting and `math` from the standard library.
@@ -69,6 +71,8 @@ centroid2 = dataset[8]   # starts in the Poisonous group
 **Output:**
 - Console: per-iteration assignments and centroid updates, convergence notice
 - Plot: points colored by cluster, final centroids marked with stars (★)
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/1c4190dd-72db-46d4-8140-258bfa26db0c" />
+<img width="640" height="480" alt="Figure_21" src="https://github.com/user-attachments/assets/b7f42ce5-d216-4f12-92a2-3a279bc690d4" />
 
 ---
 
@@ -82,6 +86,8 @@ python testkmeanplot.py
 Requires Python 3 with `matplotlib` installed. No other dependencies.
 
 ---
+
+G8: Pacheco, Lucero, Peralta
 
 ## Constraints
 
