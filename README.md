@@ -1,5 +1,3 @@
-<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/e4a069a5-54ba-4a82-a37e-72c2a2924a8b" />
-<img width="640" height="480" alt="Figure_21" src="https://github.com/user-attachments/assets/ece60c1c-f208-4abe-a1cb-53cb770967e5" />
 # Mushroom Classifier — kNN & K-Means from Scratch
 
 Bare-bones implementations of **K-Nearest Neighbours (kNN)** and **K-Means Clustering** in pure Python, built for a computational science lab assignment. No external libraries except `matplotlib` for plotting and `math` from the standard library.
